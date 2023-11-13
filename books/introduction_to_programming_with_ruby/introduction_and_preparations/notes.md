@@ -21,4 +21,4 @@ Hides details of lower layers
 - [example.rb](https://github.com/syfaizal/launch_school/blob/main/books/introduction_to_programming_with_ruby/introduction_and_preparations/example.rb)
 
 ### Debugging with Pry
-- [preparation.rb](https://)
+- [preparation.rb](https://https://github.com/syfaizal/launch_school/blob/main/books/introduction_to_programming_with_ruby/introduction_and_preparations/preparation.rb)
