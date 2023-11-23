@@ -18,7 +18,7 @@ Notes for Launch School's RB100 course
 * Launch School courses are focused on #2, however, to teach higher-level concepts, knowledge of basic grammar and syntax is assumed
 * How well do I really need to know this?
   * Do every assignment listed in the course, and you should be ready
-# Ruby Style
+## Ruby Style
 1. Text editor should use two spaces for tabs and indenting should be set to use spaces
 2. `#` sign at the beginning of a line signifies everything on the same line is a comment
 3. Always use **snake_case** formatting to define or initialize a method, variable, or file
@@ -62,9 +62,9 @@ end
 class MyFirstClass
 end
 ```
-# Book: Introduction to Programming with Ruby
-- Notes for Introduction to Programming with Ruby
+## Book: Introduction to Programming with Ruby
+- [Notes](https://github.com/syfaizal/launch_school/blob/main/books/introduction_to_programming_with_ruby/contents.md) for Introduction to Programming with Ruby
 - Spend as much time as needed to go through the book carefully; it's the most important part of the prep course
 - It's vital to be comfortable reading and writing basic Ruby syntax and understanding fundamental programming constructs such as loops, variables and conditionals
 - Push code for exercises to a GitHub repo
-# Exercises: Ruby Basics
+## Exercises: Ruby Basics
