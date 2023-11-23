@@ -1,0 +1,1 @@
+[Launch School Core Curriculum](https://github.com/syfaizal/launch_school/blob/main/README.md) > RB100 Programming & Back-end Prep
