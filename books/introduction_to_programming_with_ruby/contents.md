@@ -12,4 +12,4 @@ Notes for Launch School's Introduction to Programming with Ruby
 * Arrays
 * Hashes
 * More Stuff
-* Exercises
+* [Exercises](https://github.com/syfaizal/launch_school/blob/main/books/introduction_to_programming_with_ruby/exercises/exercises.md)

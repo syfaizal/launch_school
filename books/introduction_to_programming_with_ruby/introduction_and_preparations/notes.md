@@ -1,4 +1,4 @@
-[Launch School Core Curriculum](https://github.com/syfaizal/launch_school/blob/main/README.md) > [RB100 Programming and Back-end Prep] ()
+[Launch School Core Curriculum](https://github.com/syfaizal/launch_school/blob/main/README.md) > [RB100 Programming and Back-end Prep](https://github.com/syfaizal/launch_school/blob/main/rb100/notes.md) > [Introduction to Programming with Ruby](https://github.com/syfaizal/launch_school/blob/main/books/introduction_to_programming_with_ruby/contents.md) > Introduction and Preparations
 # Introduction and Preparations
 
 Notes for Introduction and Preparations chapters of Launch School's Introduction to Programming with Ruby
