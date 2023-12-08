@@ -3,7 +3,7 @@
 Notes for Launch School's Introduction to Programming with Ruby
 
 ## Contents
-* Introduction and Preparations
+* [Introduction and Preparations](https://github.com/syfaizal/launch_school/blob/main/books/introduction_to_programming_with_ruby/introduction_and_preparations/notes.md)
 * The Basics
 * Variables
 * Methods
